@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de sistemas`**
 
-Me chamo Ryan Gabriel, tenho 16 anos e sou natual de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai. 
+Me chamo Ryan Gabriel, tenho 16 anos e sou natural de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai. 
 
 <p align="left">
     </a> 
