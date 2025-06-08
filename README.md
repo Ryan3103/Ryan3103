@@ -28,6 +28,9 @@ Me chamo Ryan Gabriel, tenho 16 anos e sou natural de Minas Gerais. Atualmente e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
     />
 
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
 <br/>
 <br/>
 
