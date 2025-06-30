@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de sistemas`**
 
-Me chamo Ryan Gabriel, tenho 16 anos e sou natural de Minas Gerais. Atualmente estou cursando desenvolvimento de sistemas no Senai. 
+Belo Horizonte, MG | 17 anos Atualmente cursando Técnico em Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
 
 <p align="left">
     </a> 
