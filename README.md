@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de sistemas`**
 
-Belo Horizonte, MG | 17 anos Atualmente cursando Técnico em Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
+Belo Horizonte, MG | 18 anos Atualmente cursando Técnico em Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
 
 <p align="left">
     </a> 
