@@ -57,8 +57,7 @@ Belo Horizonte, MG | 18 anos | Técnico em Analise e Desenvolvimento de Sistemas
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"    
 />
 
           
