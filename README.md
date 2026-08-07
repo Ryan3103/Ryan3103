@@ -12,9 +12,11 @@
   </samp>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <div align="center" style="display: inline_block"><br>
