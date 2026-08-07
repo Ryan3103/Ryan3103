@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
-
 # 👦🏽 Ryan Gabriel
 
 **`Desenvolvedor de sistemas`**
