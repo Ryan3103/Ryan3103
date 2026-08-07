@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ryan-black" />
+  <img src="https://img.shields.io/badge/Ryan_❀-black" />
 </div>
           
 <br/>
