@@ -24,15 +24,6 @@
 
 ---
 
-### 🚀 Projetos em destaque
-
-- **AcessoEdu** — protótipo de sala de aula digital acessível (HTML/CSS/JS), com painel de acessibilidade: ajuste de tamanho de fonte, alto contraste, fonte para dislexia e modo de conexão leve para internet fraca.
-- **Escola Novo Horizonte** — folha de estilo CSS de produção com identidade visual "amanhecer", usando custom properties, pareamento de tipografia serifada/monoespaçada e foco em acessibilidade.
-- **Jogo de fábrica no Roblox Studio** — projeto em desenvolvimento: fábrica com esteiras físicas, múltiplas fases, sistema de economia, tipos de máquinas e eventos no servidor.
-
-<!-- Dica: troque os itens acima pelos links reais dos repositórios quando publicar, ex: [AcessoEdu](https://github.com/Ryan3103/acessoedu) -->
-
----
 
 ### 📊 Estatísticas do GitHub
 
@@ -47,13 +38,7 @@
 
 ---
 
-### 🌐 Contato
 
-<p align="left">
-<!-- Troque pelos seus links reais -->
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28px" style="padding-right:10px;" alt="LinkedIn"/></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" width="28px" alt="Email"/></a>
-</p>
 
 ---
 
