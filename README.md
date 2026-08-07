@@ -1,21 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
 # 👦🏽 Ryan Gabriel
-**`Desenvolvedor de sistemas`**
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Sistemas+de+informa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
+
+`Desenvolvedor de sistemas`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Sistemas+de+informa%C3%A7%C3%A3o;T%C3%A9cnico+em+desenvolvimento+de+sistemas" alt="Typing SVG" /></a>
+
 Belo Horizonte, MG | 18 anos | Técnico em Analise e Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
 ---
-### 🤖 Linguagens
+
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
