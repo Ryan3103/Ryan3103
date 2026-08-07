@@ -1,24 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
-
 <div align="center">
-
-
-
-
+  
  
   <samp>
       <br>
       Hi there! I'm <b>Ryan Gabriel</b>
   </samp>
 </div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-  </a>
-</p>
-
-
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+</a>
+</div>
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
@@ -30,12 +23,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
 </div>
-</div>
           
 <br/>
 <br/>
-<picture align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
