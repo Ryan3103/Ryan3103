@@ -4,17 +4,7 @@
 
 Belo Horizonte, MG | 18 anos | Técnico em Analise e Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/Ryan3103?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Ryan3103?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-   
-</p>
+
 
 ---
 ### 🤖 Linguagens
