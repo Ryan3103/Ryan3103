@@ -1,5 +1,3 @@
-
-
 # 👦🏽 Ryan Gabriel
 
 **`Desenvolvedor de sistemas`**
