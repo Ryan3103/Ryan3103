@@ -1,11 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
 # 👦🏽 Ryan Gabriel
 
-`Desenvolvedor de sistemas`
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Sistemas+de+informa%C3%A7%C3%A3o;T%C3%A9cnico+em+desenvolvimento+de+sistemas" alt="Typing SVG" /></a>
 
-Belo Horizonte, MG | 18 anos | Técnico em Analise e Desenvolvimento de Sistemas Senai CTTI - Centro de Treinamento da tecnologia e inovaçâo
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&width=435&lines=Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
+
 
 
 <div align="center" style="display: inline_block"><br>
