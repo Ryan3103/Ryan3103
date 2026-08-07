@@ -1,7 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
 
 <div align="center">
-  
+
+
+
+
  
   <samp>
       <br>
@@ -25,7 +28,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
 </div>
-
+</div>
           
 <br/>
 <br/>
