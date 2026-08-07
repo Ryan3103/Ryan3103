@@ -26,7 +26,9 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-</div>
+</div>  
+
+<br/><br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ryan_❀-black" />
