@@ -87,24 +87,3 @@ Belo Horizonte, MG | 18 anos | Técnico em Analise e Desenvolvimento de Sistemas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ryan3103&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan3103&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
