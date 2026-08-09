@@ -8,7 +8,6 @@
   </samp>
 </div>
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryan3103&layout=compact&theme=dark)
 
 <div align="center" width="100%">
 <p align="center">
@@ -31,6 +30,7 @@
 </div>  
 
 <br/><br/>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryan3103&layout=compact&theme=dark)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ryan_❀-black" />
