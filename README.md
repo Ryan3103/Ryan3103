@@ -36,10 +36,7 @@
 </div>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryan3103&layout=compact&theme=dark" alt="Top Langs" />
-</p>
-          
+   
 <br/>
 <br/>
 <div align="center">
