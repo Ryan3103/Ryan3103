@@ -33,7 +33,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ryan_❀-black" />
+  <img src="https://img.shields.io/badge/Ryan_❀-black" />  <br>
   🌻 <i>Até no lixão nasce flor.</i>
   
 </div>
