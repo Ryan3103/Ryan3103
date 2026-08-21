@@ -31,10 +31,7 @@
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Ryan_❀-black" />
-  🌻 Até do lixão nasce flor.
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/Ryan_❀-black"/> ### 🌻 Até do lixão nasce flor. </div>
 <br/>
 
 <p align="center">
