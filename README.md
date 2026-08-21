@@ -53,4 +53,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
- arruma
