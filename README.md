@@ -31,7 +31,10 @@
 
 <br/><br/>
 
-<div align="center"> <img src="https://img.shields.io/badge/Ryan_❀-black"/> ### 🌻 Até do lixão nasce flor. </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Ryan_❀-black" />
+  🌻 Até do lixão nasce flor.
+</div>
 <br/>
 
 <p align="center">
@@ -48,3 +51,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+ arruma
