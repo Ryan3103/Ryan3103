@@ -6,7 +6,6 @@
       <br>
       Hi there! I'm <b>Ryan Gabriel</b>
       <br>
-      🌻 <i>Até no lixão nasce flor.</i>
   </samp>
 </div>
 
@@ -35,6 +34,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ryan_❀-black" />
+  🌻 <i>Até no lixão nasce flor.</i>
   
 </div>
 <br/>
