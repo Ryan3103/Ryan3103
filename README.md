@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-![Ryan' Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan3103&theme=react-dark&area=true&custom_title=Ryan's%20Contribution%20Graph)
+![Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan3103&bg_color=000000&color=ffffff&line=00d8ff&point=00d8ff&area=true&hide_border=true)
    
 <br/>
 <br/>
