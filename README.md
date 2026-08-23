@@ -9,6 +9,8 @@
   </samp>
 </div>
 
+![Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan3103&theme=react-dark&area=true&custom_title=Ryan's%20Contribution%20Graph)
+
 
 <div align="center" width="100%">
 <p align="center">
