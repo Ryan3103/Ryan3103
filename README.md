@@ -9,7 +9,6 @@
   </samp>
 </div>
 
-![Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=Ryan3103&theme=radical)
 
 <div align="center" width="100%">
 <p align="center">
