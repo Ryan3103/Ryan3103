@@ -9,8 +9,6 @@
   </samp>
 </div>
 
-![Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan3103&theme=react-dark&area=true&custom_title=Ryan's%20Contribution%20Graph)
-
 
 <div align="center" width="100%">
 <p align="center">
@@ -37,9 +35,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Ryan_❀-black" />  <br>
   <i>Até no lixão nasce flor.</i>
-  
 </div>
 <br/>
+
+![Ryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan3103&theme=react-dark&area=true&custom_title=Ryan's%20Contribution%20Graph)
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ryan3103&layout=compact&theme=dark" alt="Top Langs" />
