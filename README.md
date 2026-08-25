@@ -37,9 +37,6 @@
   <i>Até no lixão nasce flor.</i>
 </div>
 <br/>
-
-   [![trophy](https://github-profile-trophy.vercel.app/?username=Ryan3103)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
 <br/>
 
 ---
