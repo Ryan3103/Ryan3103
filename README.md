@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&section=header"/>
 
  <div align="center">
-
+![Profile Views](https://komarev.com/ghpvc/?username=Ryan3103&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS)
   <samp>
       <br>
       Hi there! I'm <b>Ryan Gabriel</b>
