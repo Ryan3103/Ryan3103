@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ryan_❀-black" />  <br>
-  <i>Maldito talento.</i>
+  <i>𝗠𝗔𝗟𝗗𝗜𝗧𝗢 𝗧𝗔𝗟𝗘𝗡𝗧𝗢.</i>
 </div>
 <br/>
 <br/>
