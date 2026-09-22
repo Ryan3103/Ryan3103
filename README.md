@@ -18,34 +18,45 @@
 </p>
 </div>
 
+<br/>
 
-<div align="center" style="display: inline_block"><br>
+
+
+
+<br/>
+
+<div align="center">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
- <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
- <img width="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-</div>  
+</div>
 
 <br/><br/>
 
+
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Ryan_❀-black" />  <br>
+  <img src="https://img.shields.io/badge/Ryan_❀-black?style=flat&labelColor=000000&color=A200FF" />  <br>
   <i>𝗠𝗔𝗟𝗗𝗜𝗧𝗢 𝗧𝗔𝗟𝗘𝗡𝗧𝗢.</i>
 </div>
 <br/>
 <br/>
 
-
+---
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan3103&theme=dark&border=A200FF&ring=A200FF&fire=A200FF&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan3103&theme=dark&border=A200FF&ring=A200FF&fire=A200FF&hide_border=true" />
+
 </div>
 
 ---
@@ -59,7 +70,6 @@
 
 ---
 
-
 <!--
 <div align="center">
 <picture>
@@ -68,3 +78,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+-->
