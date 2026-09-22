@@ -40,10 +40,15 @@
 <br/>
 <br/>
 
+
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan3103&theme=dark&border=A200FF&ring=A200FF&fire=A200FF&hide_border=true" />
+</div>
+
 ---
-
-
-
 
 <!-- Pacman -->
 <picture>
