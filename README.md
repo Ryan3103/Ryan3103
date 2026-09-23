@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td width="65%" valign="middle" style="padding: 28px; background-color: #0a0a0a;">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2200&pause=700&color=A200FF&background=00000000&center=false&vCenter=true&width=340&height=100&repeat=true&lines=%24+whoami;ryan-gabriel;%24+status;building+something+right+now" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2200&pause=700&color=A200FF&background=00000000&center=false&vCenter=true&width=340&height=120&repeat=true&lines=%24+whoami%3Bryan-gabriel%3B%24+status%3Bstack+overflow+power+user%3B%24+fuel%3Bcoffee+%26+lo-fi+beats%3B%24+bio%3Bmaking+the+web+a+better+place%2C+line+by+line" alt="terminal typing" />
 </td>
 <td width="35%" align="center" style="padding: 28px; background-color: #0a0a0a;">
 <img width="110" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/main/assets/icon.jpg" style="border-radius: 50%; border: 1px solid #A200FF;" alt="Ryan Gabriel" />
