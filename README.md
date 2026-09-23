@@ -37,18 +37,31 @@
 
 <br/>
 
----
+<!-- Contato -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ryan-gabriel-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ryangabrielsilvag052@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 <br/>
+
+<div align="center">
+  <img src="https://dummyimage.com/700x2/A200FF/A200FF.png" width="100%" height="2" alt=""/>
+</div>
+
+<br/>
+
 
 <!-- STACK & TECHS -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=A200FF&center=true&vCenter=true&width=400&height=40&letterSpacing=3px&lines=STACK+%26+TECHS" alt="Stack & Techs" />
 
-<p style="color: #A200FF; font-family: monospace; font-size: 20px; font-weight: bold; letter-spacing: 4px;">
-  STACK & TECHS
-</p>
+  <br/><br/>
 
-<br/>
 
 <p>
   <img width="54" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">&nbsp;&nbsp;
@@ -71,7 +84,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://dummyimage.com/700x2/A200FF/A200FF.png" width="100%" height="2" alt=""/>
+</div>
 
 <br/>
 
@@ -82,15 +97,4 @@
 
 <br/>
 
----
-
-<br/>
-
-<!-- Pacman Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryan3103/Ryan3103/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer"/>
