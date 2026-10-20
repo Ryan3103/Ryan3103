@@ -12,9 +12,9 @@
   </p>
 </div>
 
-<br/>
 
-<!-- Terminal / Whoami Card -->
+
+<!-- Terminal / Whoami Card 
 <div align="center">
 <table width="560" style="border: 1px solid #A200FF; border-radius: 6px; border-collapse: separate; overflow: hidden;">
 <tr>
@@ -33,7 +33,7 @@
 </td>
 </tr>
 </table>
-</div>
+</div>-->
 
 <br/>
 
