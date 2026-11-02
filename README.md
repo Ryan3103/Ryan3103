@@ -93,6 +93,7 @@
 
 <!-- Estatísticas do GitHub -->
 
+
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
@@ -106,7 +107,7 @@
 
 
 
-
+<!--
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=A200FF&center=true&vCenter=true&width=400&height=40&letterSpacing=3px&lines=GITHUB+STATS" alt="GitHub Stats" />
 
