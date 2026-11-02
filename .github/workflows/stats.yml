@@ -15,32 +15,25 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: stats
+          options: username=Ryan3103&show_icons=true&include_all_commits=true&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&icon_color=A200FF&hide_border=true
+          path: profile/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Ryan3103
-          template: classic
-          filename: profile/github-stats.svg
-          output_action: none
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
+          fail_on_error: true
 
       - name: Generate Top Languages
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@v2
         with:
+          card: top-langs
+          options: username=Ryan3103&layout=compact&langs_count=8&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&hide_border=true
+          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Ryan3103
-          template: classic
-          filename: profile/top-langs.svg
-          output_action: none
-          base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          config_timezone: America/Sao_Paulo
+          fail_on_error: true
 
       - name: Generate GitHub Streak
         uses: zients/github-readme-streak-stats@v2
@@ -49,27 +42,17 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Copy generated metrics
-        run: |
-          mkdir -p profile
-
-          echo "Arquivos gerados pelo Metrics:"
-          sudo ls -lah /metrics_renders/profile/
-
-          sudo cp /metrics_renders/profile/github-stats.svg profile/
-          sudo cp /metrics_renders/profile/top-langs.svg profile/
-
       - name: Commit generated cards
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
 
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git commit -m "Update GitHub stats cards"
           git push
