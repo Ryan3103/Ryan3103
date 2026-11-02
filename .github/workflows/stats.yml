@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=Ryan3103&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&icon_color=A200FF&hide_border=true
           path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate Top Languages
@@ -32,7 +32,7 @@ jobs:
           card: top-langs
           options: username=Ryan3103&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate GitHub Streak
