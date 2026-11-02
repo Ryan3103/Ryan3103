@@ -93,14 +93,24 @@
 
 <!-- Estatísticas do GitHub -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=A200FF&center=true&vCenter=true&width=400&height=40&letterSpacing=3px&lines=GITHUB+STATS" alt="GitHub Stats" />
 
-<h2 align="center">GitHub Analytics</h2>
+<br/><br/>
 
+<table>
+  <tr>
+    <td>
 <p align="center">
   <img height="180" src="profile/github-stats.svg" />
+  </td>
+    <td>
   <img height="180" src="profile/top-langs.svg" />
 </p>
-
+  </td>
+  </tr>
+  </table>
+  <br/>
 <p align="center">
   <img width="70%" src="profile/streak.svg" />
 </p>
@@ -108,23 +118,15 @@
 
 
 <!--
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=100000&color=A200FF&center=true&vCenter=true&width=400&height=40&letterSpacing=3px&lines=GITHUB+STATS" alt="GitHub Stats" />
 
-<br/><br/>
 
-  <table>
-  <tr>
-    <td>
+  
       <img height="165" src="https://github-readme-stats-navy-nine-28.vercel.app/api?username=Ryan3103&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&icon_color=A200FF&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
+    
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan3103&background=0a0a0a&ring=A200FF&fire=A200FF&currStreakLabel=A200FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  </table>
+  
 
-  <br/>
+  
 
   <img src="https://github-readme-stats-navy-nine-28.vercel.app/api/top-langs/?username=Ryan3103&layout=compact&bg_color=0a0a0a&title_color=A200FF&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Langs" />
 </div>
