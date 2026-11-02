@@ -92,8 +92,16 @@
 
 
 <!-- Estatísticas do GitHub -->
+
+<h2 align="center">GitHub Analytics</h2>
+
 <p align="center">
-  <img src="profile/streak.svg" />
+  <img height="180" src="profile/github-stats.svg" />
+  <img height="180" src="profile/top-langs.svg" />
+</p>
+
+<p align="center">
+  <img width="70%" src="profile/streak.svg" />
 </p>
 
 
