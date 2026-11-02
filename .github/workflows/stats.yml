@@ -40,7 +40,7 @@ jobs:
         with:
           options: user=Ryan3103&background=0a0a0a&ring=A200FF&fire=A200FF&currStreakLabel=A200FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true&disable_animations=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit generated cards
         run: |
