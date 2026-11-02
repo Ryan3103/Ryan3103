@@ -39,3 +39,26 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           config_timezone: America/Sao_Paulo
+
+          
+      - name: Generate GitHub Streak
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=Ryan3103&background=0a0a0a&ring=A200FF&fire=A200FF&currStreakLabel=A200FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GitHub stats cards"
+          git push
+
