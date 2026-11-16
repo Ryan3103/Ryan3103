@@ -13,7 +13,6 @@
 </div>
 
 
-
 <!-- Terminal / Whoami Card 
 <div align="center">
 <table width="560" style="border: 1px solid #A200FF; border-radius: 6px; border-collapse: separate; overflow: hidden;">
